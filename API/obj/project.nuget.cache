@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hf0XdoXW2wU=",
+  "success": true,
+  "projectFilePath": "/Users/maianorville/code/matc/itdev160/maia-norville/API/API.csproj",
+  "expectedPackageFiles": [
+    "/Users/maianorville/.nuget/packages/microsoft.aspnetcore.openapi/9.0.20/microsoft.aspnetcore.openapi.9.0.20.nupkg.sha512",
+    "/Users/maianorville/.nuget/packages/microsoft.openapi/1.6.30/microsoft.openapi.1.6.30.nupkg.sha512"
+  ],
+  "logs": []
+}
